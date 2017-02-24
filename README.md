@@ -1,4 +1,4 @@
-# A Star search in Maze
+# A Star Search in Maze
 
 Topic: Artificial Intelligence
 
