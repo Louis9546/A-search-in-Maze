@@ -1,6 +1,7 @@
 # A Star search in Maze
 
 Topic: Artificial Intelligence
+
 Author: Louis_Liu
 
 Method:
